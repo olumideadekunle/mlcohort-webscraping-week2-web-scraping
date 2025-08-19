@@ -29,21 +29,21 @@ python scrape.py
 
 README.md
 Week 3: Database Querying & Exploratory Data Analysis (EDA)
-📊 Dataset Used
+ Dataset Used
 
 For this assignment, I used the Titanic Survival Dataset
  from Kaggle.
-This dataset contains passenger details such as age, sex, ticket class, and whether they survived.
+This dataset contains passenger details, including age, sex, ticket class, and whether they survived.
 
-🧹 Data Cleaning
+ Data Cleaning
 
-Removed missing/null values in Age and Embarked columns.
+Removed missing/null values in the Age and Embarked columns.
 
 Converted categorical features (Sex, Embarked) into numeric form for analysis.
 
 Standardized column names for readability.
 
-🔍 Exploratory Data Analysis (EDA)
+ Exploratory Data Analysis (EDA)
 
 Key insights from the dataset:
 
@@ -53,9 +53,9 @@ Females had a higher survival rate than males.
 
 Younger passengers (children) had a higher chance of survival.
 
-The Fare distribution was skewed, with a few very expensive tickets.
+The Fare distribution was skewed, with a few costly tickets.
 
-📈 Visualizations
+ Visualizations
 
 Bar chart of survival rate by gender.
 
@@ -63,6 +63,18 @@ Histogram of passenger ages.
 
 Boxplot of fare vs. passenger class.
 
-✅ Conclusion
+ #Conclusion
 
 The Titanic dataset shows that gender, age, and passenger class were strong indicators of survival chances.
+
+
+
+
+
+
+##  Discussion
+This assignment was part of the ML Cohort program (Week 3).  
+I explored the Titanic dataset using Python, performed data cleaning, and conducted Exploratory Data Analysis (EDA).  
+The insights revealed how age, gender, and passenger class influenced survival chances.  
+
+I welcome feedback and suggestions to improve my analysis 
