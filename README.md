@@ -1,7 +1,7 @@
 # Week 2 — Web Scraping Project
 
-**Cohort:** ML Flipped Cohort  
-**Author:** Your Name  
+Cohort: ML Flipped Cohort  
+Author: Olumide Buari  
 
 ## Objective
 Scrape data from a publicly available website for use in future machine learning projects.  
